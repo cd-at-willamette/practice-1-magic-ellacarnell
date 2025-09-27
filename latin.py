@@ -1,0 +1,1 @@
+FIVES = ["SATOR","TENET","OPERA","ROTAS"]
